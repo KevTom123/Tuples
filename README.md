@@ -1,2 +1,2 @@
-# Tuples
-Some things done using tuples in Python
+# Tuples in Python
+Learn all the main uses of Tuples in Python
